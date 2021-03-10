@@ -38,13 +38,13 @@ You will need to simply use a standard `ERC20Mintable` and `ERC20Detailed` contr
 ## Crowdsale.sol
 
 * Imports
-![imports](Images/imports.png)
+![imports](Images/Imports.png)
 
 * PupperCoinSale contract
 ![PupperCoinSale](Images/PupperCoinSale.png)
 
 * PupperCoinDeployer contract
-![Deployer](Images/PupperDeployer.png)
+![Deployer](Images/PupperCoinDeployer.png)
 
 
 #### Test the contract
